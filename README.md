@@ -1,3 +1,4 @@
+<img width="380" height="585" alt="Simulationp" src="https://github.com/user-attachments/assets/5fdd988b-1cf8-4ace-9e46-4c0e6ea8c64c" />
 
 # Симуляция 🌍
 
